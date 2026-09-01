@@ -15,7 +15,7 @@ Security
 Reliability      string         Obedience to timetables and predictability of sevice
 
 Comfort &        string         The hygiene of the vehicle and ease of boarding
-Convinience
+Convenience
 
 Safe for the     boolean        Assesses  emissions  and type of fuel
 Environment
@@ -26,7 +26,7 @@ Method                    |                    Description
 
 BRINGS YOU TO POINT A-B                    If it takes you to the designated location
 
-MINIMIZES ENERGY USE                       If the vehicle minizes movement from the user
+MINIMIZES ENERGY USE                       If the vehicle minimizes movement from the user
 
 MINIMIZES TIME TAKEN                       If the vehicle can take you from point a to b in minimum time
 
@@ -38,4 +38,7 @@ https://canva.link/xy4360gnx0g5t4s
 I chose this class because I thought that it would have the most properties out of the given. Namely price, speed, comfort, etc.
 
 ## Which property is the most important? Why?
-The most importa
+The most important property is safety and security. Because if you are dead then it would be pointless.
+
+### Which method is the most useful? Why?
+If we are talking about usefulness, then the minimizing time it takes method would be the most useful. This is because one of the main purposes of transportation is moving a certain distance quickly.
