@@ -1,0 +1,41 @@
+# SG4 - Understanding Classes and Objects
+## Transportation
+## Transportation aids us in lessening the time and energy it takes us from point A to point B.
+
+## Properties
+
+Property   |   Data Type   |   Description   
+Price            float          How expensive the fare is
+
+Speed            float          How fast the vehicle moves
+
+Safety &         string         Evaluation of accident rates
+Security
+
+Reliability      string         Obedience to timetables and predictability of sevice
+
+Comfort &        string         The hygiene of the vehicle and ease of boarding
+Convinience
+
+Safe for the     boolean        Assesses  emissions  and type of fuel
+Environment
+
+## Methods
+
+Method                    |                    Description
+
+BRINGS YOU TO POINT A-B                    If it takes you to the designated location
+
+MINIMIZES ENERGY USE                       If the vehicle minizes movement from the user
+
+MINIMIZES TIME TAKEN                       If the vehicle can take you from point a to b in minimum time
+
+
+## Class Diagram
+https://canva.link/xy4360gnx0g5t4s
+
+## Why did you choose this class?
+I chose this class because I thought that it would have the most properties out of the given. Namely price, speed, comfort, etc.
+
+## Which property is the most important? Why?
+The most importa
