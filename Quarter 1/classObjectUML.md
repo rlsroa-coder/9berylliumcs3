@@ -3,32 +3,24 @@
 ## Transportation aids us in lessening the time and energy it takes us from point A to point B.
 
 ## Properties
-
-Property   |   Data Type   |   Description   
-Price            float          How expensive the fare is
-
-Speed            float          How fast the vehicle moves
-
-Safety &         string         Evaluation of accident rates
-Security
-
-Reliability      string         Obedience to timetables and predictability of sevice
-
-Comfort &        string         The hygiene of the vehicle and ease of boarding
-Convenience
-
-Safe for the     boolean        Assesses  emissions  and type of fuel
-Environment
+| Property               |   Data Type     | Description   |
+| :---                   |     :---        |          :--- |
+| Price                  |      float      | How expensive the fare is|
+| Speed                  |      float      | How fast the vehicle moves|
+| Safety & Security      |      string     | Evaluation of accident rates|
+| Reliability            |      string     | Obedience to timetables and predictability of sevice|
+| Comfort & Convenience  |      string     | The hygiene of the vehicle and ease of boarding|
+|Safe for the Environment|      boolean    | Assesses  emissions  and type of fuel|
 
 ## Methods
 
 Method                    |                    Description
 
-BRINGS YOU TO POINT A-B                    If it takes you to the designated location
+BRINGS YOU TO POINT A-B           ||         If it takes you to the designated location
 
-MINIMIZES ENERGY USE                       If the vehicle minimizes movement from the user
+MINIMIZES ENERGY USE             ||          If the vehicle minimizes movement from the user
 
-MINIMIZES TIME TAKEN                       If the vehicle can take you from point a to b in minimum time
+MINIMIZES TIME TAKEN             ||          If the vehicle can take you from point a to b in minimum time
 
 
 ## Class Diagram
