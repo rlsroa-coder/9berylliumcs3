@@ -22,18 +22,46 @@ Changes from my previous design:
 ## Updated UML Class Diagram
 
 +-------------------------------------------+
+
 |                Vehicle                    |
+
 +-------------------------------------------+
+
 | +name    :  string                        | 
+
 | +speed   :  float                         |
+
 | -price   :  float                         | 
+
 | -mileage :  float                         | 
+
 +-------------------------------------------+
+
 | +__init__(name, speed, price, safetRating)|
+
 | +drive(distance : float)                  |
+
 | +applyDiscount(percent : float)           |
+
 | +getPrice()                               |
+
 | +getSummary()                             |
+
 +-------------------------------------------+
+
+| Veh     | icle |
+| --:     | :--       |
+| +name   | string    |
+| +speed  | float     |
+| -price  | float     |
+| -mileage| float     |
+
+| <!--  -->|
+| :--      |
+| +__init__(name, speed, price, safetRating) |
+| +drive(distance : float) 
+| +applyDiscount(percent : float)  |
+| +getPrice()  |
+| +getSummary()    |                         
 
 ## Python Implementation
