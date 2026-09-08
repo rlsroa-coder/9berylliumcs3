@@ -65,5 +65,12 @@ Changes from my previous design:
 | +getSummary()    |                         
 
 ## Python Implementation
-- [classImplementation.py](github.com/rlsroa-coder/9berylliumcs3/blob/main/Quarter%201/classObjectUML.md)
+- [View Python Source](github.com/rlsroa-coder/9berylliumcs3/blob/main/Quarter%201/classObjectUML.md)
 
+## Test Run
+- [Test Run]()
+
+## Object Diagram
+- [Class Diagram](https://canva.link/6igpuhwhdvdyhuw_)
+
+## Analysis
