@@ -7,3 +7,4 @@ README.MD
 ## Quarter 1
 
 - [Class_Object_UML](classObjectUML.md)
+- [Class_Attributes_Methods](classAttributesMethods.md)
