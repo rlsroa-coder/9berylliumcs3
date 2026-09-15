@@ -1,7 +1,7 @@
 # Class Attributes and Methods
 
 ## Previous Design
-- [ClassObjectUML.md](Quarter%201/classObjectUML.md)
+- [ClassObjectUML.md](classObjectUML.md)
 
 ## Design Revision
 Changes from my previous design:
@@ -65,7 +65,7 @@ Changes from my previous design:
 | +getSummary()    |                         
 
 ## Python Implementation
-- [View Python Source](github.com/rlsroa-coder/9berylliumcs3/blob/main/Quarter%201/classObjectUML.md)
+- [View Python Source](classImplementation.py)
 
 ## Test Run
 - [Test Run](https://docs.google.com/document/d/1METHRPSMOhQRKkbiLGVgqdsNz3pzPHF-M6MwJ12PhmQ/edit?usp=sharing)
