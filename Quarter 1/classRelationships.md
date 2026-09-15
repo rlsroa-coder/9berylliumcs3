@@ -1,8 +1,8 @@
 # Class Attributes : Association and Multipiclity
 
 ## Previous Work:
-[Part 1: Classes and Objects](classObjectUML.md)
-[Part 2: Attributes and Methods](https://github.com/rlsroa-coder/9berylliumcs3/blob/main/Quarter%201/classAttributesMethods.md)
+- [Part 1: Classes and Objects](classObjectUML.md)
+- [Part 2: Attributes and Methods](classAttributesMethods.md)
 
 ## Existing Class
 #### Class: ""Vehicle""
