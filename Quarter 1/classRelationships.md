@@ -14,4 +14,11 @@ Description: Represents a garage that stores and manages vehicle objects. It doe
 
 ## Associtaion
 #### Relationship: Garage manages vehicles
-Elaboration: A garage's utmost purpose is to store or in other words manage the vehicle. So a manages "HAS-A" relationship is present. The garage 
+Elaboration: A garage's utmost purpose is to store or in other words manage the vehicle. So a manages "HAS-A" relationship is present. The garage object doesn't just describe vehicles, it actually keeps a working list of the real vehicle objects parked in it. This lets the garage report on, count, and summarize the vehicles it holds any time by going straight to the source objects.
+
+## Multiplicity 
+#### Multiplicity: 1 : 1, 1**: 1, etc.
+Exposition: One garage can hold zero, one, or many vehicles depending on how many are currently parked there, so the many side has to allow for zero. An empty garage is still a valid garage btw up through its capacity. A vehicle, in this simple design, belongs to one garage at a time, which is why the garage side relationship is fixed to 1.
+
+## UML Class Diagram
+- p
