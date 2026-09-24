@@ -21,16 +21,21 @@ Elaboration: A garage's utmost purpose is to store or in other words manage the 
 Exposition: One garage can hold zero, one, or many vehicles depending on how many are currently parked there, so the many side has to allow for zero. An empty garage is still a valid garage btw up through its capacity. A vehicle, in this simple design, belongs to one garage at a time, which is why the garage side relationship is fixed to 1.
 
 ## UML Class Diagram
-- [Object Class Diagram](https://canva.link/54zia8glnbp1l0q)
+<img width="662" height="373" alt="image" src="https://github.com/user-attachments/assets/5dd1cd81-e5ef-4d7b-89c7-48fd39cfd563" />
+
 
 ## Python Implementation
 - [Python Implementation 2](classImplementation2.py)
 
 ## Test Run
-- [Test Run 2](https://docs.google.com/document/d/1kvm2CkbKvGiXNW17_j-kbgD8TKHF3tI9sKce0-yk8Ic/edit?usp=sharing)
+<img width="683" height="357" alt="image" src="https://github.com/user-attachments/assets/f868b723-ac00-473d-8f9a-257753353388" />
+<img width="685" height="244" alt="image" src="https://github.com/user-attachments/assets/1c2e386a-bb79-4493-9c8c-345a559b7aa2" />
+<img width="685" height="226" alt="image" src="https://github.com/user-attachments/assets/ed554057-3f87-4b1e-9f13-43db77c5cd66" />
+
 
 ## Object Class Diagram
-- [Object Class Diagram](https://canva.link/6igpuhwhdvdyhuw)
+<img width="663" height="376" alt="image" src="https://github.com/user-attachments/assets/e4a01458-ee3e-41dc-be1d-853710daa820" />
+
 
 ## Analysis
 #### What is the association between your two classes?
