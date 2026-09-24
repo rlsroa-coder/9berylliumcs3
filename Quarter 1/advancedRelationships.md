@@ -19,6 +19,18 @@ An electric vehicle IS-A vehicle inheriting the traits of a normal vehicle and a
 ## Inheritance UML
 <img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/1436d747-5238-4a6e-94ca-1c7789b4f565" />
 
+## Composition/Aggregation
+#### Relationship: 
+Both
+#### Explanation:
+ElectricVehicle builds its own Battery inside __init__() since the battery has no life outside its vehicle, so if the vehicle is gone, the battery's gone. Garage instead gets handed a mechanic which already existed beforehand. This means that even if the garage were to be expunged, the mechanic will still exist.
+
+## Advanced UML Diagram
+<img width="670" height="376" alt="image" src="https://github.com/user-attachments/assets/4a4247d5-40c8-437c-9587-057a24d975e2" />
+
+
+
+
 
 
 
