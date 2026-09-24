@@ -9,3 +9,4 @@ README.MD
 - [Class_Object_UML](Quarter%201/classObjectUML.md)
 - [Class_Attributes_Methods](Quarter%201/classAttributesMethods.md)
 - [Class Relationships](Quarter%201/classRelationships.md)
+- [Advanced Relationships](Quarter%201/advancedRelationships.md)
