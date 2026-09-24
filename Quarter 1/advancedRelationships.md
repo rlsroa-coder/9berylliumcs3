@@ -1,7 +1,8 @@
 # Advanced Class Relationships
 
 ## Previous Activities
-- [Class Attributes](Quarter%201/classRelationships.md)
+- [Class Attributes](classRelationships.md)
+- [Class Implementation 2](classImplementation2.py)
 
 ## Existing Desicription
 Part 3 has two classes which is "Garage" and "Vehicle". Vehicle has name, speed, price, mileage and safetyRating; drive() and applyDiscount(). On the other hand, Garage has a list of the Vehicle references, capacity, addVehicle, and such. 
