@@ -68,7 +68,8 @@ Changes from my previous design:
 - [View Python Source](classImplementation.py)
 
 ## Test Run
-- [Test Run](https://docs.google.com/document/d/1METHRPSMOhQRKkbiLGVgqdsNz3pzPHF-M6MwJ12PhmQ/edit?usp=sharing)
+<img width="683" height="344" alt="image" src="https://github.com/user-attachments/assets/436abea1-43b1-48f8-8cc3-e96b096d724d" />
+<img width="680" height="364" alt="image" src="https://github.com/user-attachments/assets/4415552a-2f3b-4294-a63f-d5bdc56a3bf5" />
 
 ## Object Diagram
 - [Class Diagram](https://canva.link/6igpuhwhdvdyhuw_)
