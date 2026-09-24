@@ -72,7 +72,8 @@ Changes from my previous design:
 <img width="680" height="364" alt="image" src="https://github.com/user-attachments/assets/4415552a-2f3b-4294-a63f-d5bdc56a3bf5" />
 
 ## Object Diagram
-- [Class Diagram](https://canva.link/6igpuhwhdvdyhuw_)
+<img width="792" height="454" alt="image" src="https://github.com/user-attachments/assets/97a88157-5eff-42c2-9b47-fb63de84df38" />
+
 
 ## Analysis
 
