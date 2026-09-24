@@ -12,4 +12,10 @@ If I want a different kind of subclass of a vehicle I would have to copy-paste a
 is also no way to show one object having specific ownership to another object or using one in a short time.
 
 ## Inheritance Relationship
+#### Parent: Vehicle
+#### Child: Electric Vehicle
+#### Explanation:
+An electric vehicle IS-A vehicle inheriting the traits of a normal vehicle and adding new traits. Its new traits/attributes are rangeKm() and battery(); drive()/getSummary().
+
+
 
