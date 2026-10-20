@@ -10,4 +10,7 @@ README.MD
 - [Class_Attributes_Methods](Quarter%201/classAttributesMethods.md)
 - [Class Relationships](Quarter%201/classRelationships.md)
 - [Advanced Relationships](Quarter%201/advancedRelationships.md)
+
+## Quarter 2
 - [SG8 Encapsulation](Quarter%202/sg8encapsulation.py)
+- [SG9 Inheritance](Quarter%202/sg9inheritance.py)
