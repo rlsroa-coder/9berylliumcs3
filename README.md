@@ -1,9 +1,12 @@
-README.MD
 # Rain Lawrence S. Roa 
-## 9 - Beryllium
-## rlsroa@brc.pshs.edu.ph
-## [Rain Lawrence (Facebook)](https://www.facebook.com/rain.lawrence.35885)
-#
+## Grade & Section 
+#### 9 - Beryllium
+## Corporate Email
+#### rlsroa@brc.pshs.edu.ph
+## Facebook Account
+#### [Rain Lawrence (Facebook)](https://www.facebook.com/rain.lawrence.35885)
+<br>
+
 ## Quarter 1
 
 - [Class_Object_UML](Quarter%201/classObjectUML.md)
