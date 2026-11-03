@@ -2,7 +2,7 @@ README.MD
 # Rain Lawrence S. Roa 
 ## 9 - Beryllium
 ## rlsroa@brc.pshs.edu.ph
-## Rain Lawrence (Facebook)
+## [Rain Lawrence (Facebook)](https://www.facebook.com/rain.lawrence.35885)
 #
 ## Quarter 1
 
